@@ -1,0 +1,72 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bailey and Piliouras(2018)]{bailey2018multiplicative}
+J.~P. Bailey and G.~Piliouras.
+\newblock Multiplicative weights update in zero-sum games.
+\newblock In \emph{Proceedings of the 2018 ACM Conference on Economics and
+  Computation}, pages 321--338. ACM, 2018.
+
+\bibitem[Balduzzi et~al.(2019)Balduzzi, Garnelo, Bachrach, Czarnecki,
+  P{\'e}rolat, Jaderberg, and Graepel]{Balduzzi2019OpenendedLI}
+D.~Balduzzi, M.~Garnelo, Y.~Bachrach, W.~Czarnecki, J.~P{\'e}rolat,
+  M.~Jaderberg, and T.~Graepel.
+\newblock Open-ended learning in symmetric zero-sum games.
+\newblock \emph{CoRR}, abs/1901.08106, 2019.
+
+\bibitem[Cai et~al.(2016)Cai, Candogan, Daskalakis, and
+  Papadimitriou]{cai2016zero}
+Y.~Cai, O.~Candogan, C.~Daskalakis, and C.~Papadimitriou.
+\newblock Zero-sum polymatrix games: A generalization of minmax.
+\newblock \emph{Mathematics of Operations Research}, 41\penalty0 (2):\penalty0
+  648--655, 2016.
+
+\bibitem[Lanctot et~al.(2017)Lanctot, Zambaldi, Gruslys, Lazaridou, Tuyls,
+  Perolat, Silver, and Graepel]{NIPS2017_7007}
+M.~Lanctot, V.~Zambaldi, A.~Gruslys, A.~Lazaridou, K.~Tuyls, J.~Perolat,
+  D.~Silver, and T.~Graepel.
+\newblock A unified game-theoretic approach to multiagent reinforcement
+  learning.
+\newblock In I.~Guyon, U.~V. Luxburg, S.~Bengio, H.~Wallach, R.~Fergus,
+  S.~Vishwanathan, and R.~Garnett, editors, \emph{Advances in Neural
+  Information Processing Systems 30}, pages 4190--4203. Curran Associates,
+  Inc., 2017.
+\newblock URL
+  \url{http://papers.nips.cc/paper/7007-a-unified-game-theoretic-approach-to-multiagent-reinforcement-learning.pdf}.
+
+\bibitem[Mertikopoulos et~al.(2018)Mertikopoulos, Papadimitriou, and
+  Piliouras]{mertikopoulos2018cycles}
+P.~Mertikopoulos, C.~Papadimitriou, and G.~Piliouras.
+\newblock Cycles in adversarial regularized learning.
+\newblock In \emph{Proceedings of the Twenty-Ninth Annual ACM-SIAM Symposium on
+  Discrete Algorithms}, pages 2703--2717. SIAM, 2018.
+
+\bibitem[Nagarajan et~al.(2018)Nagarajan, Mohamed, and
+  Piliouras]{nagarajan2018three}
+S.~G. Nagarajan, S.~Mohamed, and G.~Piliouras.
+\newblock Three body problems in evolutionary game dynamics: Convergence,
+  periodicity and limit cycles.
+\newblock In \emph{Proceedings of the 17th International Conference on
+  Autonomous Agents and MultiAgent Systems}, pages 685--693. International
+  Foundation for Autonomous Agents and Multiagent Systems, 2018.
+
+\bibitem[Piliouras and Shamma(2014)]{piliouras2014optimization}
+G.~Piliouras and J.~S. Shamma.
+\newblock Optimization despite chaos: Convex relaxations to complex limit sets
+  via poincar{\'e} recurrence.
+\newblock In \emph{Proceedings of the twenty-fifth annual ACM-SIAM symposium on
+  Discrete algorithms}, pages 861--873. SIAM, 2014.
+
+\bibitem[Silver et~al.(2018)Silver, Hubert, Schrittwieser, Antonoglou, Lai,
+  Guez, Lanctot, Sifre, Kumaran, Graepel, et~al.]{silver2018general}
+D.~Silver, T.~Hubert, J.~Schrittwieser, I.~Antonoglou, M.~Lai, A.~Guez,
+  M.~Lanctot, L.~Sifre, D.~Kumaran, T.~Graepel, et~al.
+\newblock A general reinforcement learning algorithm that masters chess, shogi,
+  and go through self-play.
+\newblock \emph{Science}, 362\penalty0 (6419):\penalty0 1140--1144, 2018.
+
+\end{thebibliography}

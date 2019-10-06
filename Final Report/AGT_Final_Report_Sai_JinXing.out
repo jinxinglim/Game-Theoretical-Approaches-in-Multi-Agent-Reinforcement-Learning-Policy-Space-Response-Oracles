@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Policy Space Response Oracles}{}% 2
+\BOOKMARK [1][-]{section.3}{Towards Population Objectives in Zero-Sum Games}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Zero-sum Games: Transitive + Cyclic}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Training Objectives}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Comparison between Self-play and PSROrN}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Experiments}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Disc Game Balduzzi2019OpenendedLI}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Transitive Lotto}{section.4}% 9
+\BOOKMARK [1][-]{section.5}{Future Works}{}% 10
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 11
